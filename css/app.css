@@ -1,0 +1,182 @@
+body {
+    font-family: 'Lato', sans-serif;
+    font-size: 1.1rem;
+    line-height: 1.1rem;
+    background: white;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.8rem;
+    line-height: 1.8rem;
+}
+
+ul, ol, dl {
+    padding-left: 1em;
+    list-style-position: inside;
+    text-indent: -1em;
+}
+
+/* LIST */
+#list .header {
+    width: 100%;
+    height: 12rem;
+    background: #1F1F1F;
+    color: white;
+    display: table;
+}
+
+#list .header .title {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 3.2rem;
+    line-height: 3rem;
+    letter-spacing: 2px;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#list .intro {
+    font-size: 2rem;
+    line-height: 2.2rem;
+    padding-top: 1rem;
+    padding-bottom: 3rem;
+}
+
+#list table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 0;
+}
+
+#list tbody {
+    border: 0;
+}
+
+#list table tr:nth-of-type(even) {
+    background: inherit;
+}
+
+#job-list tr {
+    border-top: 2px solid lightgray;
+}
+
+#job-list td:last-child {
+    text-align: right;
+    font-family: 'Lato', sans-serif;
+    color: darkgray;
+}
+
+#job-list td {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#job-list .job-title {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    color: black;
+}
+
+#job-list .location {
+    padding-top: 10px;
+    color: darkgray;
+}
+
+.search {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+
+.search input {
+    width: 100%;
+    font-family: 'Lato', sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.2rem;
+    padding: 5px;
+    margin-top: 0.5rem;
+}
+
+.more {
+    padding-top: 1rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+
+/* JOB */
+#job .mountain {
+    background: url(../images/mountain.jpg) center no-repeat black;
+}
+
+#job .road {
+    background: url(../images/road.jpg) center no-repeat black;
+}
+
+#job .winding {
+    background: url(../images/winding.jpg) center no-repeat black;
+}
+
+#job .dark {
+    background: #1F1F1F;
+}
+
+#job .header {
+    width: 100%;
+    height: 16rem;
+    color: white;
+    display: table;
+}
+
+#job .header a {
+    position: absolute;
+    font-size: 1rem;
+    padding-top: 10px;
+    padding-left: 20px;
+    clear: both;
+}
+
+#job .header .title {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 3rem;
+    line-height: 3rem;
+    letter-spacing: 2px;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#job .why {
+    font-family: 'Coustard', Georgia, serif;
+    font-size: 1.4rem;
+    line-height: 1.4rem;
+    padding-bottom: 1rem;
+}
+
+cite {
+    font-size: 1.2rem;
+    line-height: 1.2rem;
+}
+
+.post, .about {
+    padding-top: 2rem;
+}
+
+.about strong {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+
+#culture ul {
+    padding-left: 0;
+    text-indent: 0;
+}
+
+#footer {
+    margin-top: 200px;
+    padding-top: 10px;
+    background: black;
+    font-weight: bold;
+    color: white;
+}
