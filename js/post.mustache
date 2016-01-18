@@ -2,7 +2,14 @@
 {{#jobs}}
   <tr data-job-id="{{id}}">
     <td>
-      <a href="{{link}}" class="job-title">{{title}}</a>
+      <a href="{{link}}" class="job-title">
+        {{title}}
+        {{#has_chat}}
+          <span class="chat">
+              <img src="images/slack.png" alt="Chat"/>
+          </span>
+        {{/has_chat}}
+      </a>
       <div class="location">{{location}}</div>
     </td>
     <td>{{published}}</td>
