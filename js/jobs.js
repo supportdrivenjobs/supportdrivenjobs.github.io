@@ -13,8 +13,6 @@ require([
       .append(mustache.to_html(postTemplate, {jobs: data}))
   };
 
-  renderJobList(jobs);
-
   var idx = lunr(function () {
     this.ref('id');
 
