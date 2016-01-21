@@ -62,6 +62,10 @@ ul, ol, dl {
     border-top: 2px solid lightgray;
 }
 
+#job-list .feature {
+   background-color: #FFFFCC;
+}
+
 #job-list td:last-child {
     text-align: right;
     font-family: 'Lato', sans-serif;

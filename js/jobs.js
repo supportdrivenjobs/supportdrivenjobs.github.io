@@ -1,16 +1,17 @@
 require([
   'js/jquery.js',
-  'js/mustache.js',
+  'js/handlebars.js',
   'js/lunr.js',
-  'text!post.mustache',
+  'text!post.handlebars',
   'text!posts.json'
-], function (_, mustache, lunr, postTemplate, data) {
+], function (_, handlebars, lunr, postTemplate, data) {
   var jobs = JSON.parse(data);
+  var template = handlebars.compile(postTemplate);
 
   var renderJobList = function (data) {
     $("#job-list")
       .empty()
-      .append(mustache.to_html(postTemplate, {jobs: data}))
+      .append(template( {jobs: data}));
   };
 
   var idx = lunr(function () {
