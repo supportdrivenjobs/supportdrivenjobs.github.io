@@ -17,6 +17,12 @@ ul, ol, dl {
     text-indent: -1em;
 }
 
+li {
+    list-style-position: inside;
+    text-indent: -1em;
+    padding-left: 1em;
+}
+
 /* LIST */
 #list .header {
     width: 100%;
@@ -63,7 +69,7 @@ ul, ol, dl {
 }
 
 #job-list .feature {
-   background-color: #FFFFCC;
+    background-color: #FFFFCC;
 }
 
 #job-list td:last-child {
@@ -92,7 +98,7 @@ ul, ol, dl {
 }
 
 #search {
-    padding-bottom:1rem;
+    padding-bottom: 1rem;
 }
 
 #search input {
@@ -103,7 +109,7 @@ ul, ol, dl {
     padding-left: 1rem;
     margin-top: 0.5rem;
     border: none;
-    outline:none;
+    outline: none;
 }
 
 .more {
