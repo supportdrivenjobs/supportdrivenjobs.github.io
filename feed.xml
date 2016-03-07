@@ -5,8 +5,38 @@
     <atom:link href="http://jobs.supportdriven.com/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <description>Support Driven Jobs</description>
     <language>en-gb</language>
-    <pubDate>Mon, 7 Mar 2016 11:26:46 -0800</pubDate>
-    <lastBuildDate>Mon, 7 Mar 2016 11:26:46 -0800</lastBuildDate>
+    <pubDate>Mon, 7 Mar 2016 12:21:44 -0800</pubDate>
+    <lastBuildDate>Mon, 7 Mar 2016 12:21:44 -0800</lastBuildDate>
+
+    <item>
+      <title>GitHub Enterprise Support Engineer</title>
+      <link>http://jobs.supportdriven.com/jobs/github-enterprise.html</link>
+      <pubDate>Mon, 7 Mar 2016 00:00:00 -0800</pubDate>
+      <guid isPermaLink="false">jobs/github-enterprise.html</guid>
+      <description>&amp;lt;p&amp;gt;More and more companies are using GitHub Enterprise, so the support team is growing. When our customers have problems, they contact us and it is our goal to help them as quickly and awesomely as possible. We&amp;#39;re looking for Enterprise Support Engineers, in North America, some European territories, Australia, Japan, and New Zealand to support our GitHub Enterprise product installed and managed in the customer&amp;#39;s virtualization environment.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Your main responsibility will be to work with our customers to solve support tickets. Tickets are usually opened by internal system administrators, and can include investigating load or networking issues, debugging application errors, and discussing feature requests. You&amp;#39;ll also work with our engineering team to prioritize issues and development, and our documentation team to improve customer-facing resources. You don’t need to be a Git expert, but you do need to have technical experience and a passion for helping people.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;The position reports to an Enterprise Support Manager and works closely with other teams and leaders across the company.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;GitHub works remotely and asynchronously as much as possible. While this role does not require you to live near our office, it will require some travel to meet with co-workers or attend company events. &amp;lt;/p&amp;gt;&amp;lt;h3&amp;gt;RESPONSIBILITIES&amp;lt;/h3&amp;gt;
+&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;Solve complex customer support tickets often involving Linux servers, source code, and web application issues&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Effectively communicate technical information to customers and engineering groups at GitHub&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Work proactively with customers on activities such as coordinating upgrades, communicating upcoming features, and ensuring their installation is running smoothly&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Identify bugs and improvements in the GitHub Enterprise codebase&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Manage urgent customer outages during business hours&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&amp;lt;h3&amp;gt;QUALIFICATIONS&amp;lt;/h3&amp;gt;
+&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;General understanding of how modern web applications work&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Prior experience providing technical support&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Excellent problem solving skills&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Familiarity with some flavor of production-level virtual machine (e.g., VMware ESX, Xen, KVM)&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Enthusiasm for working directly with customers&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Stellar English and grammar skills&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&amp;lt;h3&amp;gt;BONUS POINTS IF YOU HAVE&amp;lt;/h3&amp;gt;
+&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;Worked closely with large complex customer accounts&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Familiarity with Git and GitHub&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Experience with phone support&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Ability to look through and understand code (Ruby / Bash)&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Previous experience as a System Administrator&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&amp;lt;h3&amp;gt;WHY YOU SHOULD JOIN&amp;lt;/h3&amp;gt;&amp;lt;p&amp;gt;Working at GitHub is, to put it simply, a special slice of the universe. We&amp;#39;re committed to transparency, collaboration, experimentation, and always staying classy.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Because of this unique perspective, we&amp;#39;ve established one of the most flexible and well designed physical workspaces around that encourages you to work as you work best. Right now, over 60% of our employees are based outside of our San Francisco (SOMA) headquarters and work according to how they get their best stuff done.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Ensuring that GitHubbers are healthy, motivated, focused and creative is how GitHub stays awesome. Part of this is ensuring that our benefits* are out of this world.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;In a nutshell, we&amp;#39;ve built and are growing a place where we truly love working, and we think you will too.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;GitHub is made up of people with many different backgrounds and lifestyles, and we like it that way. We invite applications from people of all stripes. We don&amp;#39;t discriminate against employees or applicants based on gender identity or expression, sexual orientation, race, religion, age, national origin, citizenship, pregnancy status, veteran status, or any other differences that people imagine to discriminate against one another. Also, if you have a disability, please let us know if there&amp;#39;s anything we can do to make the interview process better for you; we&amp;#39;re happy to accommodate.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;*&amp;lt;em&amp;gt;Please note that benefits vary by country, if you have any questions don&amp;#39;t hesitate to ask your recruiter!&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;</description>	  
+    </item>
 
     <item>
       <title>GitHub Technical Support</title>
