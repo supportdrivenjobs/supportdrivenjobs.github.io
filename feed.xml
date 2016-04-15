@@ -5,8 +5,45 @@
     <atom:link href="http://jobs.supportdriven.com/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <description>Support Driven Jobs</description>
     <language>en-gb</language>
-    <pubDate>Thu, 14 Apr 2016 11:33:36 -0700</pubDate>
-    <lastBuildDate>Thu, 14 Apr 2016 11:33:36 -0700</lastBuildDate>
+    <pubDate>Fri, 15 Apr 2016 08:53:48 -0700</pubDate>
+    <lastBuildDate>Fri, 15 Apr 2016 08:53:48 -0700</lastBuildDate>
+
+    <item>
+      <title>Zapier Support Engineer</title>
+      <link>http://jobs.supportdriven.com/jobs/zapier.html</link>
+      <pubDate>Fri, 15 Apr 2016 00:00:00 -0700</pubDate>
+      <guid isPermaLink="false">jobs/zapier.html</guid>
+      <description>&amp;lt;p&amp;gt;Hi there!&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;We&amp;#39;re looking for someone who loves helping people and solving tricky technical challenges for them to join us as our first dedicated support engineer - &amp;lt;a href=&amp;quot;https://zapier.com/learn/ultimate-guide-to-customer-support/everyone-on-support/&amp;quot;&amp;gt;everyone does support at Zapier in some way&amp;lt;/a&amp;gt;. If you love interacting with people on a daily basis to help them learn how to optimize their work then read on…&amp;lt;/p&amp;gt;&amp;lt;h3&amp;gt;About You&amp;lt;/h3&amp;gt;&amp;lt;p&amp;gt;You’re technical, code every day, and love the possibilities programming and APIs provide, but you’re maybe not as excited about the prospect of debugging complex billing code or fixing an edge case in connection handling in some MySQL client. Instead - you’d rather spend each day helping users make their workflow more reliable and useful.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;You&amp;#39;re empathetic to users and can easily put yourself in their shoes. You realize that not everyone has the same skill set and that smart people sometimes make mistakes. You make customers feel empowered after interacting with support and not shamed because of a small mistake.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;You&amp;#39;re empathetic to your fellow teammates. You know sometimes bugs are shipped and or edge cases popup that weren&amp;#39;t accounted for. You can use your engineering skills to track these issues down and fix them or triage them to other members of the engineering team.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;You’ve worked with many APIs and know how they commonly fail. You know the little tricks you can employ to get misbehaving APIs back on track. You write simple code that handles failure cases in ways that delight users. You love Python and Javascript and have a favorite HTTP client library in each.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;You obsess over the details. Maybe you have a one emoticon and one exclamation point rule of thumb for every email. Maybe it&amp;#39;s only two sentences per paragraph. Either way, you make sure each word and each punctuation mark makes the customer delighted to work with you.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;You love solving problems. Every customer is different, many times radically so. You relish being able to meet their specific need, and also solving their problems that may have gone unsaid.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;You love to write. Almost everything at Zapier is done via written communication (both with customers and between teammates).&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;You&amp;#39;re persistent. Support at Zapier is much different than at many software companies. It&amp;#39;s not the same questions over and over again, and often involves researching technical nuances of the apps we support. You love the opportunity to solve new problems every day and won&amp;#39;t give up when you don&amp;#39;t know the answer right away.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;You love doing things efficiently. You use tools like Text Expander and Alfred or you build your own tools to make you and your teammates’ jobs easier and faster. We believe in systems and processes that let us scale our impact to be larger than ourselves.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;You love to set your own course. At Zapier, we have quick team meetings each week and one-on-one meetings every month and then we go make things happen. You get to make things happen without someone saying so.&amp;lt;/p&amp;gt;&amp;lt;h3&amp;gt;Things You Might Do&amp;lt;/h3&amp;gt;&amp;lt;p&amp;gt;Zapier is a startup, so you&amp;#39;ll likely get your hands dirty in a little bit of everything. That said, here are some things you&amp;#39;ll get to lead:&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;Help customers via email to ensure they have the best experience possible, troubleshooting their problems and answering their questions&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Help partners identify problems between their APIs and the Zapier core application and work towards speedy resolutions for users&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Identify and fix bugs that are affecting users trying to use Zapier&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Write documentation to help users help themselves. All the documentation on our help site is written and maintained by the support team: &amp;lt;a href=&amp;quot;https://zapier.com/help/&amp;quot;&amp;gt;https://zapier.com/help/&amp;lt;/a&amp;gt; and &amp;lt;a href=&amp;quot;https://zapier.com/developer/&amp;quot;&amp;gt;https://zapier.com/developer/&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Work alongside the product and engineering team to build tools that will speed up and increase the quality of support&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Experiment: this is a startup so everything can change&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&amp;lt;h3&amp;gt;The Whole Package&amp;lt;/h3&amp;gt;&amp;lt;p&amp;gt;Location: Anywhere you want.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;If you want to work remote, that&amp;#39;s cool. If you want to work near others, that&amp;#39;s cool too. The current support team is in Washington, California, Virginia, Florida, Connecticut, Wisconsin, Indiana, Texas, Indiana, Australia, England, and Spain.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Compensation:&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;Based on experience&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Great healthcare + dental + vision coverage&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;401k retirement plan with 4% company match&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Profit sharing&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;2-3 annual company retreats to awesome places&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;14 weeks paid leave for new parents&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Pick your own equipment. We&amp;#39;ll set you up with whatever laptop + monitor combo you want plus any software you need.&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&amp;lt;p&amp;gt;Unlimited vacation policy (plus we insist you take at least 2 weeks off each year - this isn&amp;#39;t a vague policy where unlimited vacation means no vacation).&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Work with awesome companies around the world. We partner with the best software companies in the world and you&amp;#39;ll constantly get to &amp;lt;a href=&amp;quot;https://zapier.com/zapbook&amp;quot;&amp;gt;interact with people from these great companies&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Set your own destiny.&amp;lt;/p&amp;gt;&amp;lt;h3&amp;gt;How to Apply&amp;lt;/h3&amp;gt;&amp;lt;p&amp;gt;Applying is simple.&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;Send an email to &amp;lt;a href=&amp;quot;mailto:&amp;amp;#x65;&amp;amp;#x6e;&amp;amp;#x67;&amp;amp;#x73;&amp;amp;#117;&amp;amp;#x70;&amp;amp;#112;&amp;amp;#111;r&amp;amp;#116;&amp;amp;#x6a;&amp;amp;#x6f;b&amp;amp;#x73;&amp;amp;#64;&amp;amp;#122;&amp;amp;#97;&amp;amp;#x70;&amp;amp;#105;e&amp;amp;#x72;&amp;amp;#46;&amp;amp;#99;&amp;amp;#x6f;&amp;amp;#109;&amp;quot;&amp;gt;&amp;amp;#x65;&amp;amp;#x6e;&amp;amp;#x67;&amp;amp;#x73;&amp;amp;#117;&amp;amp;#x70;&amp;amp;#112;&amp;amp;#111;r&amp;amp;#116;&amp;amp;#x6a;&amp;amp;#x6f;b&amp;amp;#x73;&amp;amp;#64;&amp;amp;#122;&amp;amp;#97;&amp;amp;#x70;&amp;amp;#105;e&amp;amp;#x72;&amp;amp;#46;&amp;amp;#99;&amp;amp;#x6f;&amp;amp;#109;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Tell us about yourself&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Tell us why you want to work at Zapier vs. somewhere else.&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&amp;lt;p&amp;gt;Then answer these 6 questions:&amp;lt;/p&amp;gt;
+&amp;lt;ol&amp;gt;
+  &amp;lt;li&amp;gt;A user hits an edge case where we’re not parsing their RSS feed correctly. We can&amp;#39;t fix it because fixing it would adversely affect most other users. Write an email reply to that user.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Tell us about the most difficult API/library/software bug you&amp;#39;ve tackled. We love real life stories.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Send us a link to an app&amp;#39;s API docs that you think are well done, and explain why you think they are good.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Send us a link or an attachment to some documentation you wrote and maintained.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Include links to your portfolio, Github profile or provide us with 500+ LOC. We&amp;#39;re hoping to see some code you wrote in the past.&amp;lt;br/&amp;gt;6.How did you hear about Zapier?&amp;lt;/li&amp;gt;
+&amp;lt;/ol&amp;gt;&amp;lt;p&amp;gt;&amp;lt;i&amp;gt;All teammates at Zapier also agree to a &amp;lt;a href=&amp;quot;https://zapier.com/jobs/zapier-code-of-conduct/&amp;quot;&amp;gt;code of conduct&amp;lt;/a&amp;gt; that keeps Zapier a safe, welcoming and inclusive environment.&amp;lt;/i&amp;gt;&amp;lt;/p&amp;gt;</description>	  
+    </item>
 
     <item>
       <title>7Geese Customer Support Specialist</title>
@@ -169,37 +206,6 @@
       <pubDate>Tue, 29 Mar 2016 00:00:00 -0700</pubDate>
       <guid isPermaLink="false">jobs/dealdash.html</guid>
       <description>&amp;lt;p&amp;gt;DealDash is looking for talented and motivated individuals who are interested in joining a company with startup roots that has now grown into an e-commerce success.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;This is an English language position within our Customer Support team.&amp;lt;br/&amp;gt;You will need to demonstrate you&amp;#39;re capable of independent work, fresh ideas and the drive to be part of a successful team.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Successful applicants will begin with a two-week training period in our head office, following which the opportunity to work remotely is available. This is a 5 day per week position with shifts that may be from Mon-Sun and may include evening work.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;This position is available immediately, so please apply ASAP!&amp;lt;/p&amp;gt;</description>	  
-    </item>
-
-    <item>
-      <title>Remind Support Enthusiast</title>
-      <link>http://jobs.supportdriven.com/jobs/remind.html</link>
-      <pubDate>Fri, 25 Mar 2016 00:00:00 -0700</pubDate>
-      <guid isPermaLink="false">jobs/remind.html</guid>
-      <description>&amp;lt;p&amp;gt;8,300 students drop out of school every day. We&amp;#39;re looking for people to help us change this.&amp;lt;/p&amp;gt;&amp;lt;h3&amp;gt;About Us&amp;lt;/h3&amp;gt;&amp;lt;p&amp;gt;Remind helps educators send quick, simple messages to students and parents on any device. We believe that when communication improves, relationships get stronger. Education gets better. &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;We&amp;#39;re hiring team members inspired by the potential to transform education, motivated to solve communication challenges in education, and passionate about our vision of connecting every teacher, student, and parent in the world. With more than 35 million users, Remind is one of the fastest-growing companies in education technology. &amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;We’ve raised $59 million in funding from Kleiner Perkins, Social Capital, and First Round Capital to bring us closer to achieving our goals, and we want you to join us.&amp;lt;/p&amp;gt;&amp;lt;h3&amp;gt;Responsibilities&amp;lt;/h3&amp;gt;
-&amp;lt;ul&amp;gt;
-  &amp;lt;li&amp;gt;Help teachers succeed by answering incoming support emails quickly and accurately, achieving over 95%+ satisfaction rating.&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Respond quickly and with empathy to user reports and requests.&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Rock phone and online Live Chat support to delight teachers.&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Keep FAQ content, video content, and various learning resources accurate and up-to-date.&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Improve productivity by automating common answers, identifying issues to the Product and Engineering organizations, and reporting trends to the Support leadership team.&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;&amp;lt;h3&amp;gt;Requirements&amp;lt;/h3&amp;gt;
-&amp;lt;ul&amp;gt;
-  &amp;lt;li&amp;gt;You have worked in a support or project management role.&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;You are tech-savvy and have the ability to learn new programs quickly.&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;You are an awesome problem solver and enjoy being efficient and detail-oriented.&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;You are genuinely compassionate and dedicated. You strive to understand a customer’s problems and care that they&amp;#39;re taken care of, and you won&amp;#39;t stop until they’re happy!&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Bonus: You have worked in the education field in some capacity.&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;&amp;lt;h3&amp;gt;Benefits and Perks&amp;lt;/h3&amp;gt;
-&amp;lt;ul&amp;gt;
-  &amp;lt;li&amp;gt;Competitive salary and equity&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;100% health coverage for you and your dependents&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Open vacation policy&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Parental leave&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Catered meals and fully stocked kitchen&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Health and education reimbursement&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Parking and commuter benefits&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;</description>	  
     </item>
 
     <item>
