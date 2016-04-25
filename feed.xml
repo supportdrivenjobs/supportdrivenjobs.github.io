@@ -5,8 +5,23 @@
     <atom:link href="http://jobs.supportdriven.com/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <description>Support Driven Jobs</description>
     <language>en-gb</language>
-    <pubDate>Thu, 21 Apr 2016 10:24:27 -0700</pubDate>
-    <lastBuildDate>Thu, 21 Apr 2016 10:24:27 -0700</lastBuildDate>
+    <pubDate>Mon, 25 Apr 2016 08:40:24 -0700</pubDate>
+    <lastBuildDate>Mon, 25 Apr 2016 08:40:24 -0700</lastBuildDate>
+
+    <item>
+      <title>Segment Success Analyst</title>
+      <link>http://jobs.supportdriven.com/jobs/segment-success.html</link>
+      <pubDate>Mon, 25 Apr 2016 00:00:00 -0700</pubDate>
+      <guid isPermaLink="false">jobs/segment-success.html</guid>
+      <description>&amp;lt;p&amp;gt;Our goal is to make life easier for our customers and to leave them with the &amp;quot;wow&amp;quot; feeling of having solved analytics issues with ease, style and class.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;We&amp;#39;re looking for an experienced customer-facing analyst who loves helping people, solving problems and wants to be a major factor in the success for our customers. This is a perfect position for someone who is somewhat technical and experienced in analytics, but also wants to stay close to customers at a fast-moving startup. If you&amp;#39;ve got a knack for explaining technical concepts this could be a great role for you.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;This is a particularly exciting new role at Segment (it&amp;#39;ll be a team of 2 Success Analysts to start) because you&amp;#39;ll be the first point of contact for users of our shiny new &amp;lt;a href=&amp;quot;https://segment.com/warehouses&amp;quot;&amp;gt;warehouses&amp;lt;/a&amp;gt; and &amp;lt;a href=&amp;quot;https://segment.com/sources&amp;quot;&amp;gt;sources products&amp;lt;/a&amp;gt;. You&amp;#39;ll play a key role in the product development process for those products and the creation of our customer success materials.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;You&amp;#39;d be joining a team of talented engineers and analysts that &amp;lt;a href=&amp;quot;https://github.com/segmentio&amp;quot;&amp;gt;love open-source&amp;lt;/a&amp;gt;, supporting their community, and making life easier for people. We care deeply about our users and partners, and we judge ourselves on how well we serve them. So if you enjoy working with smart people and helping to build a company that cares about quality, you&amp;#39;ve found the right place.&amp;lt;/p&amp;gt;&amp;lt;h3&amp;gt;Responsibilities:&amp;lt;/h3&amp;gt;
+&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;Help users get the most out of our new &amp;lt;a href=&amp;quot;https://segment.com/warehouses&amp;quot;&amp;gt;warehouses&amp;lt;/a&amp;gt; and &amp;lt;a href=&amp;quot;https://segment.com/sources&amp;quot;&amp;gt;sources&amp;lt;/a&amp;gt; products&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Provide direct support via email and sometimes phone or in person&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Take our customer success materials to the next level by writing guides&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Work closely with the product team to improve customer success and product development&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Become an expert on the Segment platform and the many ways it provides value to analysts&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;</description>	  
+    </item>
 
     <item>
       <title>Get A Copywriter Part-Time Account Manager</title>
@@ -256,57 +271,6 @@
   &amp;lt;li&amp;gt;A knack for taking technical language and making it understandable&amp;lt;/li&amp;gt;
   &amp;lt;li&amp;gt;A passion for solving tough problems and proposing elegant solutions&amp;lt;/li&amp;gt;
 &amp;lt;/ul&amp;gt;&amp;lt;p&amp;gt;Happiness Engineers must be fluent and eloquent in written English. If you know additional languages, be sure to tell us!&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;The &amp;lt;a href=&amp;quot;http://wordpress.com/&amp;quot;&amp;gt;WordPress.com&amp;lt;/a&amp;gt; and &amp;lt;a href=&amp;quot;http://wordpress.com/&amp;quot;&amp;gt;WordPress.org&amp;lt;/a&amp;gt; forums are fantastic places to gain the experience required for this position. If you are already active there, let us know! Send a link to your forum profile and we’ll check it out.&amp;lt;/p&amp;gt;</description>	  
-    </item>
-
-    <item>
-      <title>GitHub Enterprise Support Engineer</title>
-      <link>http://jobs.supportdriven.com/jobs/github-enterprise.html</link>
-      <pubDate>Mon, 7 Mar 2016 00:00:00 -0800</pubDate>
-      <guid isPermaLink="false">jobs/github-enterprise.html</guid>
-      <description>&amp;lt;p&amp;gt;More and more companies are using GitHub Enterprise, so the support team is growing. When our customers have problems, they contact us and it is our goal to help them as quickly and awesomely as possible. We&amp;#39;re looking for Enterprise Support Engineers, in North America, some European territories, Australia, Japan, and New Zealand to support our GitHub Enterprise product installed and managed in the customer&amp;#39;s virtualization environment.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Your main responsibility will be to work with our customers to solve support tickets. Tickets are usually opened by internal system administrators, and can include investigating load or networking issues, debugging application errors, and discussing feature requests. You&amp;#39;ll also work with our engineering team to prioritize issues and development, and our documentation team to improve customer-facing resources. You don’t need to be a Git expert, but you do need to have technical experience and a passion for helping people.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;The position reports to an Enterprise Support Manager and works closely with other teams and leaders across the company.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;GitHub works remotely and asynchronously as much as possible. While this role does not require you to live near our office, it will require some travel to meet with co-workers or attend company events. &amp;lt;/p&amp;gt;&amp;lt;h3&amp;gt;RESPONSIBILITIES&amp;lt;/h3&amp;gt;
-&amp;lt;ul&amp;gt;
-  &amp;lt;li&amp;gt;Solve complex customer support tickets often involving Linux servers, source code, and web application issues&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Effectively communicate technical information to customers and engineering groups at GitHub&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Work proactively with customers on activities such as coordinating upgrades, communicating upcoming features, and ensuring their installation is running smoothly&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Identify bugs and improvements in the GitHub Enterprise codebase&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Manage urgent customer outages during business hours&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;&amp;lt;h3&amp;gt;QUALIFICATIONS&amp;lt;/h3&amp;gt;
-&amp;lt;ul&amp;gt;
-  &amp;lt;li&amp;gt;General understanding of how modern web applications work&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Prior experience providing technical support&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Excellent problem solving skills&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Familiarity with some flavor of production-level virtual machine (e.g., VMware ESX, Xen, KVM)&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Enthusiasm for working directly with customers&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Stellar English and grammar skills&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;&amp;lt;h3&amp;gt;BONUS POINTS IF YOU HAVE&amp;lt;/h3&amp;gt;
-&amp;lt;ul&amp;gt;
-  &amp;lt;li&amp;gt;Worked closely with large complex customer accounts&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Familiarity with Git and GitHub&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Experience with phone support&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Ability to look through and understand code (Ruby / Bash)&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Previous experience as a System Administrator&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;&amp;lt;h3&amp;gt;WHY YOU SHOULD JOIN&amp;lt;/h3&amp;gt;&amp;lt;p&amp;gt;Working at GitHub is, to put it simply, a special slice of the universe. We&amp;#39;re committed to transparency, collaboration, experimentation, and always staying classy.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Because of this unique perspective, we&amp;#39;ve established one of the most flexible and well designed physical workspaces around that encourages you to work as you work best. Right now, over 60% of our employees are based outside of our San Francisco (SOMA) headquarters and work according to how they get their best stuff done.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Ensuring that GitHubbers are healthy, motivated, focused and creative is how GitHub stays awesome. Part of this is ensuring that our benefits* are out of this world.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;In a nutshell, we&amp;#39;ve built and are growing a place where we truly love working, and we think you will too.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;GitHub is made up of people with many different backgrounds and lifestyles, and we like it that way. We invite applications from people of all stripes. We don&amp;#39;t discriminate against employees or applicants based on gender identity or expression, sexual orientation, race, religion, age, national origin, citizenship, pregnancy status, veteran status, or any other differences that people imagine to discriminate against one another. Also, if you have a disability, please let us know if there&amp;#39;s anything we can do to make the interview process better for you; we&amp;#39;re happy to accommodate.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;*&amp;lt;em&amp;gt;Please note that benefits vary by country, if you have any questions don&amp;#39;t hesitate to ask your recruiter!&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;</description>	  
-    </item>
-
-    <item>
-      <title>GitHub Technical Support</title>
-      <link>http://jobs.supportdriven.com/jobs/github.html</link>
-      <pubDate>Mon, 7 Mar 2016 00:00:00 -0800</pubDate>
-      <guid isPermaLink="false">jobs/github.html</guid>
-      <description>&amp;lt;p&amp;gt;The GitHub Technical Support team is looking for full-time team members in our SF office or worldwide! We are particularly in need of folks in Asia-Pacific and Europe. GitHub users work 24/7, so you&amp;#39;ll occasionally need to adjust your work week to help cover a weekend or holiday (don&amp;#39;t worry! We strongly support flexible schedules that let you to take care of the important things in your life).&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;When GitHub users have questions, they contact Support and we help them as quickly and awesomely as possible. Technical support handles a wide variety of inquiries including questions about Git and GitHub workflows, GitHub Pages, our API, and our desktop applications. Support also works closely with the engineering team to track down bugs and improve our documentation.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;The most important characteristic of our support team is that we love helping developers. GitHub is a place for people to work better, together. Our job is to help. Support treats users the way we&amp;#39;d want someone to treat our friends.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Our support teammates have excellent writing chops: stellar grammar, charming written personality, and the ability to explain complicated things simply. We measure our success in swiftness, accuracy, and clarity.&amp;lt;/p&amp;gt;&amp;lt;h3&amp;gt;YOU MUST HAVE:&amp;lt;/h3&amp;gt;
-&amp;lt;ul&amp;gt;
-  &amp;lt;li&amp;gt;Stellar English and grammar skills&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Excellent problem solving skills – you might not know all the answers but you know how to find and communicate the solution&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;A strong sense of empathy – you are attuned to hear the question behind a question&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Technical experience and exposure to programming&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Customer service experience&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;A unique writing style and voice&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;&amp;lt;h3&amp;gt;BONUS IF YOU:&amp;lt;/h3&amp;gt;
-&amp;lt;ul&amp;gt;
-  &amp;lt;li&amp;gt;Will love developers and GitHub as much as we do&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Could effortlessly explain how Git works to a non-developer&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Have remote customer service experience&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;&amp;lt;h3&amp;gt;WHO WE ARE&amp;lt;/h3&amp;gt;&amp;lt;p&amp;gt;GitHub is the best place to share code with friends, co-workers, classmates, and complete strangers. Over ten million people use GitHub to build amazing things together. With the collaborative features of GitHub.com, our desktop and mobile apps, and GitHub Enterprise, it has never been easier for individuals and teams to write better code, faster.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;We have a lot of exciting things to do, and we’re looking for the right people to grow with us!&amp;lt;/p&amp;gt;&amp;lt;h3&amp;gt;WHY YOU SHOULD JOIN&amp;lt;/h3&amp;gt;&amp;lt;p&amp;gt;Working at GitHub is, to put it simply, a special slice of the universe. We&amp;#39;re committed to transparency, collaboration, experimentation, and always staying classy.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Because of this unique perspective, we&amp;#39;ve established one of the most flexible and well designed physical workspaces around that encourages you to work as you work best. Right now, over 60% of our employees are based outside of our San Francisco (SOMA) headquarters and work according to how they get their best stuff done.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Ensuring that GitHubbers are healthy, motivated, focused and creative is how GitHub stays awesome. Part of this is ensuring that our benefits* are out of this world.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;In a nutshell, we&amp;#39;ve built and are growing a place where we truly love working, and we think you will too.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;GitHub is made up of people with many different backgrounds and lifestyles, and we like it that way. We invite applications from people of all stripes. We don&amp;#39;t discriminate against employees or applicants based on gender identity or expression, sexual orientation, race, religion, age, national origin, citizenship, pregnancy status, veteran status, or any other differences that people imagine to discriminate against one another. Also, if you have a disability, please let us know if there&amp;#39;s anything we can do to make the interview process better for you; we&amp;#39;re happy to accommodate.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;*&amp;lt;em&amp;gt;Please note that benefits vary by country, if you have any questions don&amp;#39;t hesitate to ask your recruiter!&amp;lt;/em&amp;gt;&amp;lt;/p&amp;gt;</description>	  
     </item>
 
   </channel> 
