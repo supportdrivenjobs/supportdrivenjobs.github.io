@@ -5,8 +5,8 @@
     <atom:link href="http://jobs.supportdriven.com/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <description>Support Driven Jobs</description>
     <language>en-gb</language>
-    <pubDate>Wed, 15 Jun 2016 10:46:55 -0700</pubDate>
-    <lastBuildDate>Wed, 15 Jun 2016 10:46:55 -0700</lastBuildDate>
+    <pubDate>Wed, 15 Jun 2016 14:12:54 -0700</pubDate>
+    <lastBuildDate>Wed, 15 Jun 2016 14:12:54 -0700</lastBuildDate>
 
     <item>
       <title>ProTrainings Customer Happiness Hero</title>
@@ -64,6 +64,28 @@
   &amp;lt;li&amp;gt;A time that you went above and beyond to help someone (preferably in a work setting, but a personal interaction is fine)&amp;lt;/li&amp;gt;
   &amp;lt;li&amp;gt;Why you want to work at ProTrainings&amp;lt;/li&amp;gt;
   &amp;lt;li&amp;gt;Your résumé&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;</description>	  
+    </item>
+
+    <item>
+      <title>Fastly Customer Support Engineer</title>
+      <link>http://jobs.supportdriven.com/jobs/fastly.html</link>
+      <pubDate>Mon, 13 Jun 2016 00:00:00 -0700</pubDate>
+      <guid isPermaLink="false">jobs/fastly.html</guid>
+      <description>&amp;lt;p&amp;gt;Fastly is a flexible, transparent content delivery network that accelerates and scales websites, mobile applications, and APIs. We do this by moving content physically closer to a company’s end users. If you’re tweeting, pinning, shopping on Wayfair or ModCloth, reading the news on Fast Company or The Guardian, browsing pictures on Imgur, or coding with GitHub, Fastly is improving your user experience.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;The global CDN market is estimated to grow from $3.71 billion in 2014 to $12.16 billion in 2019. With an exciting product roadmap and a fast-growing international team, Fastly is redefining what’s possible online.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;We’re building a better Internet. Come join us. &amp;lt;/p&amp;gt;&amp;lt;h3&amp;gt;CUSTOMER SUPPORT ENGINEER&amp;lt;/h3&amp;gt;&amp;lt;p&amp;gt;Fastly’s goal of creating the best set of tools for people who scale the internet is rooted in great support. It&amp;#39;s a core value, and something that shapes our culture. Fastly is looking for passionate support engineers to continue our high standard of support, as well scale and improve our support systems as we grow.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;The ideal candidate should be a master of written voice, and have the technical curiosity and experience necessary to understand Fastly’s product from end to end. They’ll be working with our marketing, engineering, and sales teams on behalf of our customer base, so a passion for customer advocacy is essential. Also, no two support tickets at Fastly are alike, so support engineers will be dealing with a wide range of complex and rewarding problems on a daily basis.&amp;lt;/p&amp;gt;&amp;lt;h3&amp;gt;RESPONSIBILITIES&amp;lt;/h3&amp;gt;
+&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;Assist with customer CDN configurations over email and chat&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Communicate customer needs and requirements with the engineering, product and sales teams&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Contribute to our customer facing documentation when necessary&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Contribute to the processes and policies that scale our support organization as we grow&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&amp;lt;h3&amp;gt;REQUIREMENTS&amp;lt;/h3&amp;gt;
+&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;Strong verbal and written communication skills&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Familiarity with a *nix environment
+&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Familiarity with one or more programming languages&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Ability to debug connections using cURL, traceroute, telnet and other network diagnostic tools&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Prior CDN, support, or sysadmin experience a plus&amp;lt;/li&amp;gt;
 &amp;lt;/ul&amp;gt;</description>	  
     </item>
 
