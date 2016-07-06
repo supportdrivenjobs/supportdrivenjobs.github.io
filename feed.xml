@@ -5,8 +5,74 @@
     <atom:link href="http://jobs.supportdriven.com/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <description>Support Driven Jobs</description>
     <language>en-gb</language>
-    <pubDate>Tue, 5 Jul 2016 16:02:33 -0700</pubDate>
-    <lastBuildDate>Tue, 5 Jul 2016 16:02:33 -0700</lastBuildDate>
+    <pubDate>Wed, 6 Jul 2016 13:45:47 -0700</pubDate>
+    <lastBuildDate>Wed, 6 Jul 2016 13:45:47 -0700</lastBuildDate>
+
+    <item>
+      <title>GitHub Enterprise Support Agent</title>
+      <link>http://jobs.supportdriven.com/jobs/github-enterprise-support-agent.html</link>
+      <pubDate>Wed, 6 Jul 2016 00:00:00 -0700</pubDate>
+      <guid isPermaLink="false">jobs/github-enterprise-support-agent.html</guid>
+      <description>&amp;lt;p&amp;gt;More and more companies are using GitHub Enterprise, so the support team is growing. When our customers have problems, they contact us and it is our goal to help them as quickly and awesomely as possible. This person will join GitHub as part of our global support team and support our customers around the world. We&amp;#39;re looking for Enterprise Support Agents in North America (US and Canada) who will answer incoming phone calls, triage issues, and help provide solutions.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;The position reports to an Enterprise Support Manager and works closely with other teams and leaders across the company.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;GitHub works remotely and asynchronously as much as possible. While this role does not require you to live near our office, it will require some travel to meet with co-workers or attend company events.&amp;lt;/p&amp;gt;&amp;lt;h3&amp;gt;RESPONSIBILITIES&amp;lt;/h3&amp;gt;
+&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;Take in-bound phone support requests&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Triage incoming support tickets&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Work collaboratively with other support teams&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Manage communication around customer tickets&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Troubleshoot and help solve highly complex support tickets&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Escalate issues to other support engineers and managers as applicable&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Work with our Engineering team to prioritize issues and development&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Work with our Documentation team to improve customer-facing resources&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&amp;lt;h3&amp;gt;QUALIFICATIONS&amp;lt;/h3&amp;gt;
+&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;Must have current working authorization to work in the U.S.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Knowledge of Linux servers&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;General understanding of how modern web applications work&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Enthusiasm for working directly with customers&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Ability to clearly write and orally communicate technical information&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Ability to review and understand code (Ruby / Bash)&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Must have a workspace conducive to answering phone calls&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Prior experience providing technical support&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Excellent problem solving skills&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Strong empathy for GitHub users and GitHub Support&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&amp;lt;h3&amp;gt;BONUS POINTS IF YOU HAVE&amp;lt;/h3&amp;gt;
+&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;Technical experience (QA, documentation, systems administration, etc.)&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Familiarity with Git and GitHub&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;</description>	  
+    </item>
+
+    <item>
+      <title>GitHub Enterprise Support Engineer</title>
+      <link>http://jobs.supportdriven.com/jobs/github-enterprise-support-engineer.html</link>
+      <pubDate>Wed, 6 Jul 2016 00:00:00 -0700</pubDate>
+      <guid isPermaLink="false">jobs/github-enterprise-support-engineer.html</guid>
+      <description>&amp;lt;p&amp;gt;More and more companies are using GitHub Enterprise, so the support team is growing. When our customers have problems, they contact us and it is our goal to help them as quickly and awesomely as possible. This person will join GitHub as part of our global support team and support our customers around the world. We&amp;#39;re looking for Enterprise Support Engineers, in North America (US and Canada) to support our GitHub Enterprise product installed and managed in the customer&amp;#39;s virtualization environment.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Your main responsibility will be to work with our customers to solve support tickets. Tickets are usually opened by internal system administrators, and can include investigating load or networking issues, debugging application errors, and discussing feature requests. You&amp;#39;ll also work with our engineering team to prioritize issues and development, and our documentation team to improve customer-facing resources. You don’t need to be a Git expert, but you do need to have technical experience and a passion for helping people.&amp;lt;br/&amp;gt;The position reports to an Enterprise Support Manager and works closely with other teams and leaders across the company.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;GitHub works remotely and asynchronously as much as possible. While this role does not require you to live near our office, it will require some travel to meet with co-workers or attend company events.&amp;lt;/p&amp;gt;&amp;lt;h3&amp;gt;RESPONSIBILITIES&amp;lt;/h3&amp;gt;
+&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;Solve complex customer support tickets often involving Linux servers, source code, and web application issues&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Effectively communicate technical information to customers and engineering groups at GitHub&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Work proactively with customers on activities such as coordinating upgrades, communicating upcoming features, and ensuring their installation is running smoothly&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Identify bugs and improvements in the GitHub Enterprise codebase&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Manage urgent customer outages during business hours&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&amp;lt;h3&amp;gt;QUALIFICATIONS&amp;lt;/h3&amp;gt;
+&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;Must have current legal working authorizaton&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;General understanding of how modern web applications work&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Prior experience providing technical support&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Excellent problem solving skills&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Familiarity with some flavor of production-level virtual machine (e.g., VMware ESX, Xen, KVM)&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Enthusiasm for working directly with customers&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Stellar English and grammar skills&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&amp;lt;h3&amp;gt;BONUS POINTS IF YOU HAVE&amp;lt;/h3&amp;gt;
+&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;Worked closely with large complex customer accounts&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Familiarity with Git and GitHub&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Experience with phone support&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Ability to look through and understand code (Ruby / Bash)&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Previous experience as a System Administrator&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Previous experience as a Linux System Administrator&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;</description>	  
+    </item>
 
     <item>
       <title>Automattic Happiness Engineer</title>
@@ -164,87 +230,6 @@
   &amp;lt;li&amp;gt;3+ years in a technical support role&amp;lt;/li&amp;gt;
   &amp;lt;li&amp;gt;In depth working knowledge of JavaScript, HTML, CSS&amp;lt;/li&amp;gt;
   &amp;lt;li&amp;gt;Proficiency with APIs&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;</description>	  
-    </item>
-
-    <item>
-      <title>Fastly Customer Support Engineer</title>
-      <link>http://jobs.supportdriven.com/jobs/fastly.html</link>
-      <pubDate>Wed, 15 Jun 2016 00:00:00 -0700</pubDate>
-      <guid isPermaLink="false">jobs/fastly.html</guid>
-      <description>&amp;lt;p&amp;gt;Fastly is a flexible, transparent content delivery network that accelerates and scales websites, mobile applications, and APIs. We do this by moving content physically closer to a company’s end users. If you’re tweeting, pinning, shopping on Wayfair or ModCloth, reading the news on Fast Company or The Guardian, browsing pictures on Imgur, or coding with GitHub, Fastly is improving your user experience.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;The global CDN market is estimated to grow from $3.71 billion in 2014 to $12.16 billion in 2019. With an exciting product roadmap and a fast-growing international team, Fastly is redefining what’s possible online.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;We’re building a better Internet. Come join us. &amp;lt;/p&amp;gt;&amp;lt;h3&amp;gt;CUSTOMER SUPPORT ENGINEER&amp;lt;/h3&amp;gt;&amp;lt;p&amp;gt;Fastly’s goal of creating the best set of tools for people who scale the internet is rooted in great support. It&amp;#39;s a core value, and something that shapes our culture. Fastly is looking for passionate support engineers to continue our high standard of support, as well scale and improve our support systems as we grow.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;The ideal candidate should be a master of written voice, and have the technical curiosity and experience necessary to understand Fastly’s product from end to end. They’ll be working with our marketing, engineering, and sales teams on behalf of our customer base, so a passion for customer advocacy is essential. Also, no two support tickets at Fastly are alike, so support engineers will be dealing with a wide range of complex and rewarding problems on a daily basis.&amp;lt;/p&amp;gt;&amp;lt;h3&amp;gt;RESPONSIBILITIES&amp;lt;/h3&amp;gt;
-&amp;lt;ul&amp;gt;
-  &amp;lt;li&amp;gt;Assist with customer CDN configurations over email and chat&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Communicate customer needs and requirements with the engineering, product and sales teams&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Contribute to our customer facing documentation when necessary&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Contribute to the processes and policies that scale our support organization as we grow&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;&amp;lt;h3&amp;gt;REQUIREMENTS&amp;lt;/h3&amp;gt;
-&amp;lt;ul&amp;gt;
-  &amp;lt;li&amp;gt;Strong verbal and written communication skills&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Familiarity with a *nix environment
-&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Familiarity with one or more programming languages&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Ability to debug connections using cURL, traceroute, telnet and other network diagnostic tools&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Prior CDN, support, or sysadmin experience a plus&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;</description>	  
-    </item>
-
-    <item>
-      <title>ProTrainings Customer Happiness Hero</title>
-      <link>http://jobs.supportdriven.com/jobs/protrainings.html</link>
-      <pubDate>Wed, 15 Jun 2016 00:00:00 -0700</pubDate>
-      <guid isPermaLink="false">jobs/protrainings.html</guid>
-      <description>&amp;lt;h3&amp;gt;You...&amp;lt;/h3&amp;gt;
-&amp;lt;ul&amp;gt;
-  &amp;lt;li&amp;gt;Are good at seeing things from other people’s point of view&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Strive to take care of others like you would take care of your own family&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Love to build relationships with customers&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Want to take customer care to the next level&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Emulate other companies that provide amazing service: Disney, Chick-Fil-A, Nordstrom, Ritz-Carlton, Trader Joe’s, and Zappos are some great examples&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;See the value in having a rabid, loyal customer base&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Embrace change&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Push for excellence&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;&amp;lt;h3&amp;gt;Who we are&amp;lt;/h3&amp;gt;&amp;lt;p&amp;gt;We’ve been certifying people in CPR, first aid, and bloodborne pathogens since 2003. Not only that -- we’ve been increasing in size, training more people, adding more trainings, and getting bigger and stronger every year since.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;We are a collaborative, growing team that creates and supports the world’s best training. Our online health and safety courses help save lives every day (literally -- we have heard countless stories from our customers who have saved the lives of loved ones after using our training).&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;We work out of an awesome, open building in Grand Rapids, Michigan.&amp;lt;/p&amp;gt;&amp;lt;h3&amp;gt;What we believe&amp;lt;/h3&amp;gt;&amp;lt;p&amp;gt;Providing life-saving training is a noble pursuit that is worth getting up every morning to create.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;We believe that every team member is crucial and makes a difference, which is why we hire highly-motivated, hard-working, well-rounded people who pursue excellence in everything they do. That’s also why we’re very selective and particular about hiring great people, especially in this position, as you will be the face of our company to many of our customers.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;We think that surprising and delighting our customers at every turn makes life-long, loyal supporters who rave about you to their friends; not to mention, it helps make the world a better place to live!&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;We believe that training should be FREE, because nobody should have to take out their wallet to learn how to save a life. In fact, we believe this so strongly, we created a StudentCPR program that trains thousands of high school students every single year.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;We believe that you can work really hard and still have a ton of fun. You can play ping pong to blow off steam, chat with customers from our ceiling suspended hammock chair, and play games with co-workers at the office at night. Work and fun are not mutually exclusive -- having a good work-life balance is critical to loving your job and doing great work.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;We love innovation. We don’t like to do things like everyone else. A great example is our Single Use Manikin Option (SUMO). For the first time in the history of CPR training, people are able to complete their entire certification without leaving home.&amp;lt;/p&amp;gt;&amp;lt;h3&amp;gt;What you’ll be doing&amp;lt;/h3&amp;gt;
-&amp;lt;ul&amp;gt;
-  &amp;lt;li&amp;gt;Delighting our customers by forming real relationships with them (through phone, email, and chat), including sending out postcards and follow-up emails to show our appreciation&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Forming meaningful relationships with company administrators (Nike, Bed Bath &amp;amp;amp; Beyond, Goodwill, and Jazzercise are just a few companies that use us) while assisting them with setup, onboarding, and follow-up&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Providing insightful advice and friendly support to ProTrainings customers in need&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Quickly diagnosing problems on the spot, determining and explaining situations with patience and empathy so our customers can get trained and get back to work&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Taking ownership of every customer interaction -- we empower you to make decisions and care for customers in creative ways -- no robots here&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Collaborating with other departments to WOW our customers&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Learning and growing professionally by taking time every week to read articles or books from our bookshelf to better yourself&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Working 12pm - 8pm or 9am - 5pm (EST) with the possibility of alternating shift coverage&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;We are open to remote workers who have a great work ethic, are self-motivated, and do great work without direct supervision&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;&amp;lt;h3&amp;gt;Desired experience&amp;lt;/h3&amp;gt;&amp;lt;p&amp;gt;You have worked in a customer-relations role in the past, whether that was as a receptionist, a call center rep, nursing assistant, barista, bank teller, anything in retail, or any other position in which you helped and delighted customers.&amp;lt;/p&amp;gt;&amp;lt;h3&amp;gt;Basic skills we’re looking for&amp;lt;/h3&amp;gt;
-&amp;lt;ul&amp;gt;
-  &amp;lt;li&amp;gt;Strong writing skills&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Strong people skills&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;A good speaking voice&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Ability to maintain composure and customer focus while troubleshooting and solving technical issues&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Comfortable with technology&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Fast typer&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Comfortable on phone, email, and chat&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Fast learner&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Attention to detail&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Bonus if you are able to speak Spanish (at least at a high school level) and interested in learning more&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;&amp;lt;h3&amp;gt;Benefits you’ll love&amp;lt;/h3&amp;gt;
-&amp;lt;ul&amp;gt;
-  &amp;lt;li&amp;gt;Health / dental insurance&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Paid time off&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;401k with company match&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Fun culture / atmosphere&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;A career that makes a difference (train people to save lives, hear heroic stories, and receive awesome testimonials from really grateful customers)&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;High level of autonomy and creativity while helping and delighting customers&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Extensive, continuous training (you won’t be thrown in blind)&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Professional development library (request a book or resource, and you’ll have it within 2 weeks)&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;CPR / first aid training &amp;amp;amp; certification&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;&amp;lt;h3&amp;gt;Ready to help save lives?&amp;lt;/h3&amp;gt;&amp;lt;p&amp;gt;If you’re still reading this, we would love to learn more about you. Shoot an email to careers at protrainings dot com and include the following:&amp;lt;/p&amp;gt;
-&amp;lt;ul&amp;gt;
-  &amp;lt;li&amp;gt;A fun, catchy subject line&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Your top 3 strengths&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;A time that you went above and beyond to help someone (preferably in a work setting, but a personal interaction is fine)&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Why you want to work at ProTrainings&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Your résumé&amp;lt;/li&amp;gt;
 &amp;lt;/ul&amp;gt;</description>	  
     </item>
 
