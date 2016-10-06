@@ -12,15 +12,13 @@ h1, h2, h3, h4 {
 }
 
 ul, ol, dl {
-    padding-left: 1em;
+    padding-left: 2em;
     list-style-position: inside;
-    text-indent: -1em;
+    text-indent: -2em;
 }
 
 li {
     list-style-position: inside;
-    text-indent: -1em;
-    padding-left: 1em;
 }
 
 /* LIST */
