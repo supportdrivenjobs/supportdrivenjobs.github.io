@@ -182,10 +182,10 @@ cite {
     font-weight: 700;
 }
 
-#culture ul {
-    padding-left: 0;
-    text-indent: 0;
-}
+/*#culture ul {*/
+    /*padding-left: 0;*/
+    /*text-indent: 0;*/
+/*}*/
 
 #footer {
     margin-top: 3rem;
