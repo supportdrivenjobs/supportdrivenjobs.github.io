@@ -5,8 +5,34 @@
     <atom:link href="http://jobs.supportdriven.com/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <description>Support Driven Jobs</description>
     <language>en-gb</language>
-    <pubDate>Wed, 26 Oct 2016 13:02:44 -0700</pubDate>
-    <lastBuildDate>Wed, 26 Oct 2016 13:02:44 -0700</lastBuildDate>
+    <pubDate>Fri, 28 Oct 2016 14:53:05 -0700</pubDate>
+    <lastBuildDate>Fri, 28 Oct 2016 14:53:05 -0700</lastBuildDate>
+
+    <item>
+      <title>GitHub Community Manager (North America)</title>
+      <link>http://jobs.supportdriven.com/jobs/github-community.html</link>
+      <pubDate>Fri, 28 Oct 2016 00:00:00 -0700</pubDate>
+      <guid isPermaLink="false">jobs/github-community.html</guid>
+      <description>&amp;lt;p&amp;gt;GitHub is looking for a Community Manager to join our Web Support team to create, manage and build awareness for our Community Support Forums. The Community Manager will be responsible for building a strategy that both increases the number of GitHub community users as well as fosters active, productive and helpful discussions within the community. The Community Manager will help shape the product roadmap to serve the community’s needs, and grows and strengthens the GitHub user community.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;The Community Manager will report to the Director of Web Support and will work closely with our global support, documentation and other cross-organizational teams to ensure consistency throughout the content and voice within the community. The Community Manager will help maintain effective communication between the Community Support team and other teams at GitHub, in order to create the best experience possible for our customers, moderators, and staff.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;The GitHub Community Support Forums will be a place for users to collaborate, learn and network with both their peers from the community, as well as GitHub. The Community Manager will be responsible for upholding GitHub’s values within the community, including ensuring participants’ safety, inclusion, and consideration in the forum environment.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Residence in North America and have legal working authorization to work in Canada or the US&amp;lt;/p&amp;gt;&amp;lt;h3&amp;gt;YOU MUST HAVE:&amp;lt;/h3&amp;gt;
+&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;Proven experience launching community initiatives (e.g. building an online forum, launching programs tailored to specific audiences)&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Experience with social media, blogging, and online community engagement&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Strong written and verbal communication skills&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Proven experience developing and implementing strategic plans that grow communities on social media&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Demonstrated ability to work with cross-functional teams&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Experience developing community training resources, guidelines, and policies&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&amp;lt;h3&amp;gt;BONUS POINTS IF YOU HAVE:&amp;lt;/h3&amp;gt;
+&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;Experience supporting users at varying skill levels through a number of support channels (chat, CRM systems, blogs, Twitter, etc.)&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Experience working directly with engineering teams, creating workflows, and building and integrating systems&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Experience building metrics to monitor and measure success of community engagement&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Knowledge of online marketing and marketing channels&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Experience working remotely&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Worked asynchronously with distributed teams&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Previous experience with GitHub and how developers use the tool&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;A positive and enthusiastic attitude and can work effectively in a fast-paced, team environment&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;</description>	  
+    </item>
 
     <item>
       <title>eVisit Customer Success Coach</title>
@@ -396,38 +422,6 @@
 
           
         &amp;lt;/div&amp;gt;</description>	  
-    </item>
-
-    <item>
-      <title>GitHub Enterprise Support Engineer</title>
-      <link>http://jobs.supportdriven.com/jobs/github-enterprise-support-engineer.html</link>
-      <pubDate>Mon, 12 Sep 2016 00:00:00 -0700</pubDate>
-      <guid isPermaLink="false">jobs/github-enterprise-support-engineer.html</guid>
-      <description>&amp;lt;p&amp;gt;More and more companies are using GitHub Enterprise, so the support team is growing. When our customers have problems, they contact us and it is our goal to help them as quickly and awesomely as possible. This person will join GitHub as part of our global support team and support our customers around the world. We&amp;#39;re looking for Enterprise Support Engineers, in North America (US and Canada) to support our GitHub Enterprise product installed and managed in the customer&amp;#39;s virtualization environment.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Your main responsibility will be to work with our customers to solve support tickets. Tickets are usually opened by internal system administrators, and can include investigating load or networking issues, debugging application errors, and discussing feature requests. You&amp;#39;ll also work with our engineering team to prioritize issues and development, and our documentation team to improve customer-facing resources. You don’t need to be a Git expert, but you do need to have technical experience and a passion for helping people.&amp;lt;br/&amp;gt;The position reports to an Enterprise Support Manager and works closely with other teams and leaders across the company.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;GitHub works remotely and asynchronously as much as possible. While this role does not require you to live near our office, it will require some travel to meet with co-workers or attend company events.&amp;lt;/p&amp;gt;&amp;lt;h3&amp;gt;RESPONSIBILITIES&amp;lt;/h3&amp;gt;
-&amp;lt;ul&amp;gt;
-  &amp;lt;li&amp;gt;Solve complex customer support tickets often involving Linux servers, source code, and web application issues&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Effectively communicate technical information to customers and engineering groups at GitHub&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Work proactively with customers on activities such as coordinating upgrades, communicating upcoming features, and ensuring their installation is running smoothly&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Identify bugs and improvements in the GitHub Enterprise codebase&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Manage urgent customer outages during business hours&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;&amp;lt;h3&amp;gt;QUALIFICATIONS&amp;lt;/h3&amp;gt;
-&amp;lt;ul&amp;gt;
-  &amp;lt;li&amp;gt;Must have current legal working authorizaton&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;General understanding of how modern web applications work&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Prior experience providing technical support&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Excellent problem solving skills&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Familiarity with some flavor of production-level virtual machine (e.g., VMware ESX, Xen, KVM)&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Enthusiasm for working directly with customers&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Stellar English and grammar skills&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;&amp;lt;h3&amp;gt;BONUS POINTS IF YOU HAVE&amp;lt;/h3&amp;gt;
-&amp;lt;ul&amp;gt;
-  &amp;lt;li&amp;gt;Worked closely with large complex customer accounts&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Familiarity with Git and GitHub&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Experience with phone support&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Ability to look through and understand code (Ruby / Bash)&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Previous experience as a System Administrator&amp;lt;/li&amp;gt;
-  &amp;lt;li&amp;gt;Previous experience as a Linux System Administrator&amp;lt;/li&amp;gt;
-&amp;lt;/ul&amp;gt;</description>	  
     </item>
 
   </channel> 
