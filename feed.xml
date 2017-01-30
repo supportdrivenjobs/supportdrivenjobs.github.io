@@ -5,8 +5,39 @@
     <atom:link href="http://jobs.supportdriven.com/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <description>Support Driven Jobs</description>
     <language>en-gb</language>
-    <pubDate>Mon, 16 Jan 2017 12:06:04 -0800</pubDate>
-    <lastBuildDate>Mon, 16 Jan 2017 12:06:04 -0800</lastBuildDate>
+    <pubDate>Mon, 30 Jan 2017 07:21:57 -0800</pubDate>
+    <lastBuildDate>Mon, 30 Jan 2017 07:21:57 -0800</lastBuildDate>
+
+    <item>
+      <title>Jhana Support/Ops Engineer</title>
+      <link>http://jobs.supportdriven.com/jobs/jhana.html</link>
+      <pubDate>Mon, 30 Jan 2017 00:00:00 -0800</pubDate>
+      <guid isPermaLink="false">jobs/jhana.html</guid>
+      <description>&amp;lt;p&amp;gt;The mission that gets us out of bed in the morning is simple: help millions of people get the great manager they deserve. People’s relationships with their managers are a major driver of job satisfaction. With good managers, teams and companies thrive. With bad managers, teams and companies implode. That’s why we built a web application to help managers be effective people leaders.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;We’re a high-performing team of entrepreneurs and deep thinkers who get really excited about ideas and learning. And with more than 50 delighted customers (including FitBit, Etsy, Carfax, and Glassdoor), we’re well on our way to building a strong, sustainable enterprise SaaS company.&amp;lt;/p&amp;gt;&amp;lt;h3&amp;gt;About the job:&amp;lt;/h3&amp;gt;&amp;lt;p&amp;gt;You’ll be our first in-house engineering hire — a huge opportunity to lead the company in scaling our technical onboarding and support processes. You’ll also be collaborating with our platform development agency and product and client success teams to develop a secure, seamless, and downright awesome experience for managers.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;This often means collaborating and coordinating with multiple stakeholders, from a client’s IT department to our own non-technical writers. If you’re the type who’s motivated by translating people’s real-world problems into technical solutions that users love — and doing so seems all the more exciting in an ever-evolving startup environment — then you’ll probably like it here.&amp;lt;/p&amp;gt;&amp;lt;h3&amp;gt;Responsibilities:&amp;lt;/h3&amp;gt;
+&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;Manage technical onboarding and support for new Jhana customers.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Provide first response Jhana SaaS product and platform support for customers.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Work with our Platform team to design and code platform innovations.&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&amp;lt;h3&amp;gt;Requirements:&amp;lt;/h3&amp;gt;
+&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;4+ years support and full-stack development experience with PHP/MySQL, JavaScript, and HTML5 at a minimum.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Demonstrable understanding of WordPress standards, database structure and security, custom theme development, custom widget development, and responsive mobile WordPress theme development and testing.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Experience working in an agile development environment.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Has a people-person side, enjoys communicating with a range of stakeholders (clients, internal teams, IT staff, and non-technical people).&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;You’re self-motivated, collaborative, adaptable and excited about building, fixing, and improving a fast-changing startup.&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&amp;lt;h3&amp;gt;Benefits:&amp;lt;/h3&amp;gt;
+&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;The opportunity to move the needle and to see the immediate impact of your work&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Competitive salary&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Generous stock options&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Company-paid medical and dental coverage&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Discretionary paid time off: we treat employees like responsible, trusted adults, giving the flexibility needed manage their work and personal lives&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Remote-work friendly company culture&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Personal learning and professional development budgets&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;401(k)&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Dog friendly office&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&amp;lt;p&amp;gt;We value diversity&amp;lt;br/&amp;gt;Jhana is an equal opportunity employer, and we&amp;#39;re actively recruiting diverse candidates from a wide range of backgrounds and experiences.&amp;lt;/p&amp;gt;</description>	  
+    </item>
 
     <item>
       <title>Automattic Happiness Engineer</title>
