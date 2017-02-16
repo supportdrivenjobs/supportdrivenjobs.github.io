@@ -5,8 +5,48 @@
     <atom:link href="http://jobs.supportdriven.com/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <description>Support Driven Jobs</description>
     <language>en-gb</language>
-    <pubDate>Thu, 16 Feb 2017 08:50:26 -0800</pubDate>
-    <lastBuildDate>Thu, 16 Feb 2017 08:50:26 -0800</lastBuildDate>
+    <pubDate>Thu, 16 Feb 2017 10:05:31 -0800</pubDate>
+    <lastBuildDate>Thu, 16 Feb 2017 10:05:31 -0800</lastBuildDate>
+
+    <item>
+      <title>resin.io Technical Content Lead</title>
+      <link>http://jobs.supportdriven.com/jobs/resinio.html</link>
+      <pubDate>Fri, 17 Feb 2017 00:00:00 -0800</pubDate>
+      <guid isPermaLink="false">jobs/resinio.html</guid>
+      <description>&amp;lt;p&amp;gt;Resin.io provides a software platform that helps developers build, deploy and manage code on connected devices. In short, we make IoT work.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Our technology is open, standards-based and proven in production across a wide range of scenarios from drones, 3D printers, point-of-sale devices, tidal turbines, skyscrapers and more. Our investors include DFJ, Aspect Ventures, GE, and Ericsson.&amp;lt;/p&amp;gt;&amp;lt;h3&amp;gt;ABOUT THIS ROLE&amp;lt;/h3&amp;gt;&amp;lt;p&amp;gt;As our user base grows and our platform gets more sophisticated, we’re creating a role for a technical content lead to explain what resin.io is and how to use it successfully. You’ll champion our efforts to create understanding about resin.io and lead the charge on technical documentation. You’ll work closely with our design, development, product and support teams to understand and communicate about the platform to our users.&amp;lt;/p&amp;gt;&amp;lt;h3&amp;gt;RESPONSIBILITIES&amp;lt;/h3&amp;gt;
+&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;Manage our docs from end to end. Document new features, maintain existing docs, organize the structure and flow of our docs, and ensure accuracy, clarity, and consistency across all of our technical documentation, including GitHub repos.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Write content such as blog posts, forum posts, white papers, and website copy to explain our product features, design principles, and architecture to users.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Create tutorials, projects, examples, and screen capture videos to demonstrate our platform.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Help design the user onboarding experience and ongoing user education programs.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Work closely with the product and development teams to understand technical details and their implications for users.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Measure our success in helping users understand resin.io, share progress with the team, and find ways to improve.&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&amp;lt;h3&amp;gt;REQUIREMENTS&amp;lt;/h3&amp;gt;
+&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;Excellent writing and communication skills. You turn complicated technical details into clear and interesting material.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Able to dive deep while keeping the big picture in mind. You can create lots of great content while seeing how it fits into our overall story and broader goals.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Able to work with developers to gather technical details. Like a journalist, you ask questions to get to what’s most important for users to know.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Organized, thorough and pay close to attention to detail. You’re the person who will submit a pull request to fix a typo.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Self-motivated and able to set direction and priorities. You can be incredibly productive without much oversight and know where your time is best spent.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Skilled at learning and teaching new concepts. You don’t need to be a developer, but you do need to speak the language of software, build a basic understanding of resin.io products, and be able to teach others about our technologies.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Able to understand the product from a user’s perspective and explain features in a way that users will appreciate.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Fluent in written and spoken English.&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&amp;lt;h3&amp;gt;Nice to have:&amp;lt;/h3&amp;gt;
+&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;Experience with resin.io-related technologies (e.g. Docker, Linux, IoT devices like the Raspberry Pi).&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Interest in trying your hand at hardware projects.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Experience writing technical docs, blog posts, briefs, and white papers - writing samples welcome!&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Experience in user-facing roles (e.g. quality assurance, support, development, product, experience design).&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&amp;lt;h3&amp;gt;BENEFITS&amp;lt;/h3&amp;gt;
+&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;Work with a talented, diverse team&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Remote-friendly&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Flexible working hours&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Flexible vacation policy&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Annual company gathering at an international location&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;New computer and equipment of your choice&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&amp;lt;h3&amp;gt;WORKING AT RESIN.IO&amp;lt;/h3&amp;gt;&amp;lt;p&amp;gt;Our team is distributed around the world, at more than 15 different locations, and embraces a remote-first culture with flexible hours. This means that team members can be highly productive while still maintaining a healthy work-life balance.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;You can expect to work on interesting and increasingly challenging projects here. You’ll also have a say in what you work on and how you achieve your goals.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;We have a culture that assumes positive intent while driving one another towards excellent results. We value direct and open communication. We are also an equal opportunity employer and value diversity. We maintain a work environment in which team members are treated with respect and in which thoughts and ideas can be shared openly.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;We actively seek out candidates with different backgrounds, experiences, abilities and perspectives. If you are not sure if this is the role for you, please ask us.&amp;lt;/p&amp;gt;</description>	  
+    </item>
 
     <item>
       <title>SeatGeek Customer Experience Specialist</title>
