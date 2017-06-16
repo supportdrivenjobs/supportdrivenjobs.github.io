@@ -5,8 +5,44 @@
     <atom:link href="http://jobs.supportdriven.com/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <description>Support Driven Jobs</description>
     <language>en-gb</language>
-    <pubDate>Thu, 15 Jun 2017 06:30:25 -0700</pubDate>
-    <lastBuildDate>Thu, 15 Jun 2017 06:30:25 -0700</lastBuildDate>
+    <pubDate>Fri, 16 Jun 2017 16:25:21 -0700</pubDate>
+    <lastBuildDate>Fri, 16 Jun 2017 16:25:21 -0700</lastBuildDate>
+
+    <item>
+      <title>SolarWinds Cloud (Librato, Papertrail, &amp; Pingdom) Product Advocate / Technical Account Manager</title>
+      <link>http://jobs.supportdriven.com/jobs/solarwinds-cloud.html</link>
+      <pubDate>Fri, 16 Jun 2017 00:00:00 -0700</pubDate>
+      <guid isPermaLink="false">jobs/solarwinds-cloud.html</guid>
+      <description>&amp;lt;p&amp;gt;As a Product Advocate, you’ll use technical experience, product knowledge, and sales skills to help every customer get the most value from SolarWinds’ Monitoring Cloud (SaaS) products:&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;Librato (infrastructure monitoring): &amp;lt;a href=&amp;quot;https://www.librato.com/&amp;quot;&amp;gt;https://www.librato.com/&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Papertrail (log-centric troubleshooting): &amp;lt;a href=&amp;quot;https://papertrailapp.com/&amp;quot;&amp;gt;https://papertrailapp.com/&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Pingdom (Web performance): &amp;lt;a href=&amp;quot;https://www.pingdom.com/&amp;quot;&amp;gt;https://www.pingdom.com/&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;TraceView (application performance monitoring) : &amp;lt;a href=&amp;quot;https://traceview.solarwinds.com/&amp;quot;&amp;gt;https://traceview.solarwinds.com/&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&amp;lt;p&amp;gt;If you’ve made a restaurant reservation, collaborated in a text chat room, or purchased a plane ticket, you probably used a service which depends on SolarWinds Monitoring Cloud.&amp;lt;/p&amp;gt;&amp;lt;h3&amp;gt;Why is this role important?&amp;lt;/h3&amp;gt;&amp;lt;p&amp;gt;Your customers, many of whom are fellow engineers, will come to see you as a trusted peer. You’ll be instrumental in figuring out what types of technical account management actually help, why, and how to scale it. This is an incredibly fast-growing market. As the SolarWinds Monitoring Cloud thrives and expands in the coming years, you’ll have contributed significantly to that growth.&amp;lt;/p&amp;gt;&amp;lt;h3&amp;gt;Why is this position unique?&amp;lt;/h3&amp;gt;&amp;lt;p&amp;gt;Big company benefits and customer base, startup flexibility. As Product Advocate, you’ll:&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;be the primary contact for your customers, not just a sales engineer. If you’re equally adept at cloning a git repo as you are at explaining why a product is valuable enough to pay for, this role is for you.&amp;lt;br/&amp;gt;have an unusual amount of control over which actions may be worth your time. We’ll be brainstorming, selecting, and testing these together.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;see the impact of your work every day – not in 0.1% of customers, but in 10% or 30% of customers. If something is demonstrably effective, you’ll help implement or share it widely.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;sell products that you’d actually use yourself. Life is too short to represent a product you don’t care about.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;sell products which already have thousands of satisfied customers.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;interact with customers using newer technologies like Docker, Go, React, and Kubernetes as well as established products like PostgreSQL, nginx, and Heroku.&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&amp;lt;h3&amp;gt;Qualifications&amp;lt;/h3&amp;gt;
+&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;Technical expertise, so you can be useful to software developers and systems engineers. Perhaps you’ve been a sales engineer, customer success engineer, technical account manager or thrived in a “dev bootcamp” program. Maybe you’re writing code now and want a change.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Able to confidently explain that something costs money (and why!), and ideally, past experience in a sales role. If you have a demonstrated interest in business (like sales, entrepreneurship, or finance), even as a hobby, we want to hear.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;You’re great at explaining complex ideas in writing. This position is 80% email or text, 20% interactive (voice or video)&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Able to confidently give a screenshare-style product demo that attendees enjoy&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;You value the chance to help define the process. In past roles, maybe you’ve had strong opinions about how sales could do a better job or how you could do a better job if you were the sales rep.&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;Nice to have: Experience interacting with engineers on a daily basis (such as by selling a product to engineers or supporting a product used by engineers), and/or working with a distributed team (such as in Slack)&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&amp;lt;h3&amp;gt;Examples of technical expertise&amp;lt;/h3&amp;gt;&amp;lt;p&amp;gt;Part of this job is identifying customer-specific use cases and opportunities where these products can be more helpful and thus get used more. These are usually technical conversations. To add value, you’ve probably done at least 1 of these 5 tasks or something very similar:&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;modified a Ruby, Python, Unix shell, or other script/code to do what you want or run correctly (or, of course, written your own)&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;cloned a git repo and committed a change&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;used a somewhat advanced command-line tool like tcpdump, strace, ntop, iptables, or awk&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;booted a Docker container or EC2/Xen instance&amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;configured a daemon like rsyslog or sshd&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;&amp;lt;h3&amp;gt;Want to stand out?&amp;lt;/h3&amp;gt;&amp;lt;p&amp;gt;Sign up for a SolarWinds Monitoring Cloud product (like Librato, Papertrail, or Pingdom), then write an email or record a screencast demo for an imaginary customer. In the email or screencast, explain why this product is a better fit than competitors.&amp;lt;/p&amp;gt;</description>	  
+    </item>
 
     <item>
       <title>Support Driven Sponsorship Manager</title>
